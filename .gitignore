@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+models/*.pth
+data/*.npy
+.DS_Store
+*.egg-info/
+dist/
+build/
+GUIDE.md

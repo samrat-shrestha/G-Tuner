@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchcrepe>=0.0.22
+librosa>=0.10.0
+sounddevice>=0.4.6
+streamlit>=1.28.0
+numpy>=1.24.0
